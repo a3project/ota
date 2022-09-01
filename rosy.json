@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_rosy-12.1-20220820-0943.zip",
-    "datetime": 1660988456,
-    "size": 1509306553,
-    "url": "https://sourceforge.net/projects/a3-cloud/files/release/pixelos/PixelOS_rosy-12.1-20220820-0943.zip/download",
-    "filehash": "23d4004893b57343896c8ad508ed5015",
-    "id": "23d4004893b57343896c8ad508ed5015",
+    "filename": "PixelOS_rosy-12.1-20220901-1157.zip",
+    "datetime": 1662008195,
+    "size": 1508458725,
+    "url": "https://roms.cirrus-ci.workers.dev/0:/rosy/PixelOS_rosy-12.1-20220901-1157.zip",
+    "filehash": "c1c88913bb0fb22b740f0ec3b329d846",
+    "id": "c1c88913bb0fb22b740f0ec3b329d846",
     "maintainers": [
         {
             "main_maintainer": false,
