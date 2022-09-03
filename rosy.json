@@ -1,21 +1,14 @@
 {
-    "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_rosy-12.1-20220901-1157.zip",
-    "datetime": 1662008195,
-    "size": 1508458725,
-    "url": "https://roms.cirrus-ci.workers.dev/0:/rosy/PixelOS_rosy-12.1-20220901-1157.zip",
-    "filehash": "c1c88913bb0fb22b740f0ec3b329d846",
-    "id": "c1c88913bb0fb22b740f0ec3b329d846",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "https://github.com/a3project",
-            "name": "A³-Project"
-        }
-    ],
-    "donate_url": "https://paypal.me/aepranata",
-    "website_url": "https://t.me/a3archive",
-    "news_url": "https://t.me/a3archive",
-    "forum_url": "https://t.me/a3discussion"
+  "response": [
+    {
+      "datetime": 1659153233,
+      "size": 813323879,
+      "filehash": "bee9acf79b8e9be2ae6c4517553bee41",
+      "filename": "Awaken-2.9-Aero-rosy-UNOFFICIAL-Vanilla-0355-20220730.zip",
+      "id": "4671e96f7aaea0716c516620315f801b3bf7fb8df698d84c2381245cec5c5ada",
+      "romtype": "UNOFFICIAL",
+      "version": "2.9",
+      "url": "https://sourceforge.net/projects/a3project-awaken/files/awaken/20220730/Awaken-2.9-Aero-rosy-UNOFFICIAL-Vanilla-0355-20220730.zip/download"
+    }
+  ]
 }
