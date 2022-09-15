@@ -1,12 +1,12 @@
 {
     "error": false,
-    "version": "twelve",
-    "filename": "PixelOS_rosy-12.1-20220901-1157.zip",
-    "datetime": 1662008195,
-    "size": 1508458725,
-    "url": "https://roms.cirrus-ci.workers.dev/0:/rosy/PixelOS_rosy-12.1-20220901-1157.zip",
-    "filehash": "c1c88913bb0fb22b740f0ec3b329d846",
-    "id": "c1c88913bb0fb22b740f0ec3b329d846",
+    "version": "thirteen",
+    "filename": "PixelExperience_rosy-13.0-BETA-20220915-0849-UNOFFICIAL.zip",
+    "datetime": 1663231555,
+    "size": 1426905609,
+    "url": "https://roms.cirrus-ci.workers.dev/0:/rosy/PixelExperience_rosy-13.0-BETA-20220915-0849-UNOFFICIAL.zip",
+    "filehash": "2304e5d13829b1b9c5e8b44fc6822516",
+    "id": "2304e5d13829b1b9c5e8b44fc6822516",
     "maintainers": [
         {
             "main_maintainer": false,
