@@ -1,0 +1,6 @@
+========================================
+               2022-10-03
+========================================
+- Initial build
+- Shipped with kernel 4.9.330
+- Shipped with Mi Sound Enhancer
