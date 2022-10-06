@@ -1,15 +1,15 @@
 {
   "response": [
     {
-	"maintainer": "A³-Project™",
+	"maintainer": "A³-Project",
 	"oem": "Xiaomi",
 	"device": "Redmi 5",
-	"filename": "",
-	"download": "",
-	"timestamp": "",
-	"md5": "",
-	"sha256": "",
-	"size": "",
+	"filename": "riceDroid-6.0-22100621-COMMUNITY-AOSP-rosy.zip",
+	"download": "https://sourceforge.net/projects/a3-cloud/files/release/ricedroid/riceDroid-6.0-22100621-COMMUNITY-AOSP-rosy.zip/download",
+	"timestamp": "1665092432",
+	"md5": "486867e363d497379dacf91c7f73ef41",
+	"sha256": "d5807e088520c68764ed6ba35b3ee727112f420ba8bc2e6a5a5ddc159c107a97",
+	"size": "823795924",
 	"version": "6.0",
 	"buildtype": "Vanilla",
 	"forum": "https://t.me/a3discussion",
